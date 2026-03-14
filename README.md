@@ -158,25 +158,7 @@ IT Comtor
 
 Software Engineer
 
-🏗 Kiến trúc hệ thống
-                 ┌───────────────┐
-                 │   Frontend    │
-                 │ HTML CSS JS   │
-                 └───────┬───────┘
-                         │
-                         │ REST API
-                         │
-                 ┌───────▼───────┐
-                 │    Backend    │
-                 │   Node.js     │
-                 │   Express     │
-                 └───────┬───────┘
-                         │
-                         │
-                 ┌───────▼────────┐
-                 │    Dataset      │
-                 │ Courses / Jobs  │
-                 └─────────────────┘
+
 🛠 Công nghệ sử dụng
 Frontend
 
@@ -204,26 +186,22 @@ MongoDB / MySQL (có thể mở rộng)
 
 📂 Cấu trúc thư mục dự án
 LMS-MetaJobs
-│
-├── frontend
-│   ├── index.html
-│   ├── japanese-course.html
-│   ├── it-course.html
-│   ├── jobs.html
-│   ├── css
-│   └── js
-│
-├── backend
-│   ├── server.js
-│   ├── routes
-│   ├── controllers
-│
-├── dataset
-│   ├── japanese_courses.json
-│   ├── it_courses.json
-│   ├── jobs.json
-│
-└── README.md
+frontend
+index.html
+japanese-course.html
+it-course.html
+jobs.html
+css
+js
+backend
+server.js
+routes
+controllers
+dataset
+japanese_courses.json
+it_courses.json
+jobs.json
+README.md
 💻 Hướng dẫn cài đặt
 1️⃣ Clone repository
 git clone https://github.com/username/LMS-MetaJobs.git
