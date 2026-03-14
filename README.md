@@ -2,9 +2,9 @@
 🚀 LMS-MetaJobs
 Intelligent Learning Platform for Japanese Language & IT Careers
 
-[![Demo](https://img.youtube.com/vi/O_WXIUogmcY/0.jpg)](https://www.youtube.com/watch?v=O_WXIUogmcY)
+[![Demo](https://img.youtube.com/vi/O_WXIUogmcY/maxresdefault.jpg)](https://www.youtube.com/watch?v=O_WXIUogmcY)
 
-[![Demo](https://img.youtube.com/vi/xfRVHYuPD5U/0.jpg)](https://www.youtube.com/watch?v=xfRVHYuPD5U)
+[![Demo](https://img.youtube.com/vi/xfRVHYuPD5U/maxresdefault.jpg)](https://www.youtube.com/watch?v=xfRVHYuPD5U)
 
 📚 Giới thiệu
 
