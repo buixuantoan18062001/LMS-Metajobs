@@ -10,42 +10,6 @@ Intelligent Learning Platform for Japanese Language & IT Careers
 
 LMS-MetaJobs là nền tảng Learning Management System (LMS) kết hợp với MetaJobs – hệ thống định hướng nghề nghiệp, tập trung vào hai lĩnh vực chính:
 
-🇯🇵 Học Tiếng Nhật
-
-💻 Kỹ năng Công Nghệ Thông Tin (IT)
-
-Hệ thống giúp người dùng:
-
-Học tiếng Nhật từ cơ bản đến nâng cao
-
-Phát triển kỹ năng IT
-
-Phân tích năng lực cá nhân
-
-Gợi ý nghề nghiệp phù hợp
-
-Kết nối cơ hội việc làm liên quan đến IT và thị trường Nhật Bản
-
-🎥 Demo hệ thống
-
-📺 Video demo:
-
-https://youtu.be/xfRVHYuPD5U
-
-https://youtu.be/O_WXIUogmcY
-
-Video trình bày:
-
-Giao diện hệ thống
-
-Chức năng học tiếng Nhật
-
-Học các khóa IT
-
-Phân tích kỹ năng
-
-Gợi ý công việc phù hợp
-
 🎯 Mục tiêu hệ thống
 
 Dự án LMS-MetaJobs được xây dựng nhằm:
@@ -159,64 +123,6 @@ IT Comtor
 Software Engineer
 
 
-🛠 Công nghệ sử dụng
-Frontend
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Bootstrap
-
-Backend
-
-Node.js
-
-Express.js
-
-REST API
-
-Database / Dataset
-
-JSON Dataset
-
-MongoDB / MySQL (có thể mở rộng)
-
-📂 Cấu trúc thư mục dự án
-LMS-MetaJobs
-frontend
-index.html
-japanese-course.html
-it-course.html
-jobs.html
-css
-js
-backend
-server.js
-routes
-controllers
-dataset
-japanese_courses.json
-it_courses.json
-jobs.json
-README.md
-💻 Hướng dẫn cài đặt
-1️⃣ Clone repository
-git clone https://github.com/username/LMS-MetaJobs.git
-2️⃣ Di chuyển vào thư mục dự án
-cd LMS-MetaJobs
-3️⃣ Cài đặt thư viện
-npm install
-4️⃣ Chạy server
-node server.js
-
-hoặc
-
-npm start
-5️⃣ Truy cập hệ thống
-http://localhost:3000
 📊 Quy trình hoạt động
 User
  │
