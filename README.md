@@ -1,76 +1,84 @@
-LMS-MetaJobs
 
-Hệ thống học tập và định hướng nghề nghiệp thông minh
-
-🎥 Video Demo
-
-Xem demo hệ thống tại:
+🚀 LMS-MetaJobs
+Intelligent Learning Platform for Japanese Language & IT Careers
 
 [![Demo](https://img.youtube.com/vi/O_WXIUogmcY/0.jpg)](https://www.youtube.com/watch?v=O_WXIUogmcY)
 
 [![Demo](https://img.youtube.com/vi/xfRVHYuPD5U/0.jpg)](https://www.youtube.com/watch?v=xfRVHYuPD5U)
 
-Các video demo trình bày:
+📚 Giới thiệu
 
-📌 Giới thiệu
+LMS-MetaJobs là nền tảng Learning Management System (LMS) kết hợp với MetaJobs – hệ thống định hướng nghề nghiệp, tập trung vào hai lĩnh vực chính:
 
-LMS-MetaJobs là nền tảng kết hợp giữa Learning Management System (LMS) và hệ thống gợi ý việc làm, giúp người dùng học tập trực tuyến và tìm kiếm cơ hội nghề nghiệp phù hợp với kỹ năng của mình.
+🇯🇵 Học Tiếng Nhật
 
-Hệ thống được xây dựng nhằm giải quyết vấn đề phổ biến hiện nay:
-
-Sinh viên không biết nên học gì để phù hợp với nghề nghiệp
-
-Khoảng cách giữa kiến thức học tập và nhu cầu doanh nghiệp
-
-Thiếu nền tảng kết nối giữa học tập – kỹ năng – việc làm
-
-Với LMS-MetaJobs, người dùng có thể:
-
-Học các khóa học trực tuyến
-
-Theo dõi tiến trình học tập
-
-Phân tích kỹ năng cá nhân
-
-Nhận gợi ý việc làm phù hợp
-
-
-Giao diện hệ thống
-
-Chức năng quản lý khóa học
-
-Học tập trực tuyến
-
-Hệ thống gợi ý việc làm
-
-Kết nối giữa kỹ năng và tuyển dụng
-
-🎯 Mục tiêu của hệ thống
-
-LMS-MetaJobs được phát triển nhằm:
-
-Tạo nền tảng học tập trực tuyến hiện đại
-
-Hỗ trợ định hướng nghề nghiệp
-
-Giúp người dùng phát triển kỹ năng cần thiết
-
-Kết nối người học với cơ hội việc làm
+💻 Kỹ năng Công Nghệ Thông Tin (IT)
 
 Hệ thống giúp người dùng:
 
-Xác định kỹ năng hiện có
+Học tiếng Nhật từ cơ bản đến nâng cao
 
-So sánh với yêu cầu thị trường
+Phát triển kỹ năng IT
 
-Học các khóa học phù hợp
+Phân tích năng lực cá nhân
 
-Tìm kiếm công việc phù hợp
+Gợi ý nghề nghiệp phù hợp
 
-🚀 Tính năng chính
-1. Quản lý học tập (Learning Management System)
+Kết nối cơ hội việc làm liên quan đến IT và thị trường Nhật Bản
 
-Tạo và quản lý khóa học
+🎥 Demo hệ thống
+
+📺 Video demo:
+
+https://youtu.be/xfRVHYuPD5U
+
+https://youtu.be/O_WXIUogmcY
+
+Video trình bày:
+
+Giao diện hệ thống
+
+Chức năng học tiếng Nhật
+
+Học các khóa IT
+
+Phân tích kỹ năng
+
+Gợi ý công việc phù hợp
+
+🎯 Mục tiêu hệ thống
+
+Dự án LMS-MetaJobs được xây dựng nhằm:
+
+Hỗ trợ học Tiếng Nhật cho người học IT
+
+Phát triển kỹ năng IT theo nhu cầu doanh nghiệp
+
+Kết nối học tập với cơ hội việc làm
+
+Chuẩn bị kỹ năng cho thị trường lao động Nhật Bản
+
+🧠 Ý tưởng hệ thống
+
+Mô hình hoạt động của hệ thống:
+
+Học Tiếng Nhật + IT
+        │
+        ▼
+ Phát triển kỹ năng
+        │
+        ▼
+  Phân tích năng lực
+        │
+        ▼
+ Gợi ý nghề nghiệp
+        │
+        ▼
+ Cơ hội việc làm
+✨ Tính năng chính
+📖 Hệ thống học tập (LMS)
+
+Quản lý khóa học
 
 Quản lý bài giảng
 
@@ -78,89 +86,98 @@ Quản lý học viên
 
 Theo dõi tiến độ học tập
 
-Đánh giá kết quả học tập
+Kiểm tra và đánh giá kết quả
 
-2. Hệ thống khóa học
+🇯🇵 Khóa học Tiếng Nhật
 
-Người dùng có thể:
+Các khóa học bao gồm:
 
-Xem danh sách khóa học
+Bảng chữ cái Hiragana – Katakana
 
-Tham gia khóa học trực tuyến
+Ngữ pháp tiếng Nhật
 
-Xem video bài giảng
+Từ vựng
 
-Xem tài liệu học tập
+Luyện nghe
 
-Theo dõi tiến trình học
+Luyện đọc
 
-3. Hệ thống tuyển dụng (MetaJobs)
+Chuẩn bị thi JLPT
 
-Chức năng MetaJobs cho phép:
+💻 Khóa học IT
 
-Tìm kiếm việc làm
+Các khóa học IT gồm:
 
-Xem thông tin công việc
+Lập trình Web
 
-Phân tích yêu cầu kỹ năng
+JavaScript
 
-Gợi ý công việc phù hợp với người dùng
+Node.js
 
-4. Phân tích kỹ năng
+Cơ sở dữ liệu
 
-Hệ thống phân tích:
+AI / Machine Learning cơ bản
 
-Kỹ năng của người dùng
+📊 Phân tích kỹ năng
 
-Yêu cầu kỹ năng từ công việc
+Hệ thống sẽ:
 
-Khoảng cách kỹ năng (Skill Gap)
+Phân tích kỹ năng tiếng Nhật
 
-Sau đó đề xuất:
+Phân tích kỹ năng IT
 
-Khóa học cần học
+So sánh với yêu cầu tuyển dụng
+
+Xác định Skill Gap
+
+Sau đó hệ thống sẽ đề xuất:
+
+Khóa học cần học thêm
 
 Nghề nghiệp phù hợp
 
-5. Quản trị hệ thống
+💼 MetaJobs – Hệ thống việc làm
 
-Quản trị viên có thể:
+MetaJobs giúp người dùng:
 
-Quản lý người dùng
+Tìm kiếm việc làm
 
-Quản lý khóa học
+Xem yêu cầu tuyển dụng
 
-Quản lý dữ liệu
+Phân tích kỹ năng cần thiết
 
-Theo dõi thống kê hệ thống
+Gợi ý công việc phù hợp
+
+Ví dụ:
+
+IT Developer tại công ty Nhật
+
+BrSE (Bridge System Engineer)
+
+IT Comtor
+
+Software Engineer
 
 🏗 Kiến trúc hệ thống
-
-Hệ thống LMS-MetaJobs được xây dựng theo kiến trúc gồm:
-
-Frontend – Backend – Database
-
-LMS-MetaJobs
-│
-├── Frontend
-│   ├── HTML
-│   ├── CSS
-│   ├── JavaScript
-│
-├── Backend
-│   ├── Node.js
-│   ├── Express API
-│
-├── Dataset
-│   ├── jobs.json
-│   ├── courses.json
-│
-└── Database
-    ├── Users
-    ├── Courses
-    ├── Jobs
-    └── Skills
-⚙️ Công nghệ sử dụng
+                 ┌───────────────┐
+                 │   Frontend    │
+                 │ HTML CSS JS   │
+                 └───────┬───────┘
+                         │
+                         │ REST API
+                         │
+                 ┌───────▼───────┐
+                 │    Backend    │
+                 │   Node.js     │
+                 │   Express     │
+                 └───────┬───────┘
+                         │
+                         │
+                 ┌───────▼────────┐
+                 │    Dataset      │
+                 │ Courses / Jobs  │
+                 └─────────────────┘
+🛠 Công nghệ sử dụng
 Frontend
 
 HTML5
@@ -179,25 +196,20 @@ Express.js
 
 REST API
 
-Database
+Database / Dataset
 
 JSON Dataset
 
-MongoDB / MySQL (tùy cấu hình)
-
-Data Processing
-
-Phân tích dữ liệu việc làm
-
-Gợi ý nghề nghiệp
+MongoDB / MySQL (có thể mở rộng)
 
 📂 Cấu trúc thư mục dự án
 LMS-MetaJobs
 │
 ├── frontend
 │   ├── index.html
-│   ├── course.html
-│   ├── job.html
+│   ├── japanese-course.html
+│   ├── it-course.html
+│   ├── jobs.html
 │   ├── css
 │   └── js
 │
@@ -207,81 +219,79 @@ LMS-MetaJobs
 │   ├── controllers
 │
 ├── dataset
+│   ├── japanese_courses.json
+│   ├── it_courses.json
 │   ├── jobs.json
-│   ├── courses.json
 │
 └── README.md
 💻 Hướng dẫn cài đặt
-1. Clone dự án
+1️⃣ Clone repository
 git clone https://github.com/username/LMS-MetaJobs.git
-2. Di chuyển vào thư mục dự án
+2️⃣ Di chuyển vào thư mục dự án
 cd LMS-MetaJobs
-3. Cài đặt thư viện
+3️⃣ Cài đặt thư viện
 npm install
-4. Chạy server
+4️⃣ Chạy server
 node server.js
 
-Hoặc
+hoặc
 
 npm start
-
-Sau khi chạy thành công, truy cập:
-
+5️⃣ Truy cập hệ thống
 http://localhost:3000
-📊 Quy trình hoạt động của hệ thống
-Người dùng
-     │
-     ▼
-Đăng ký / Đăng nhập
-     │
-     ▼
+📊 Quy trình hoạt động
+User
+ │
+ ▼
+Login / Register
+ │
+ ▼
 Chọn khóa học
-     │
-     ▼
-Học tập và phát triển kỹ năng
-     │
-     ▼
-Hệ thống phân tích kỹ năng
-     │
-     ▼
-Đề xuất công việc phù hợp
+(Japanese / IT)
+ │
+ ▼
+Học tập & phát triển kỹ năng
+ │
+ ▼
+Phân tích kỹ năng
+ │
+ ▼
+Gợi ý nghề nghiệp
+ │
+ ▼
+Tìm kiếm việc làm
 🎯 Đối tượng sử dụng
 
-Hệ thống LMS-MetaJobs phù hợp với:
+Hệ thống phù hợp với:
 
-Sinh viên
+Sinh viên IT
 
-Người học trực tuyến
+Người học tiếng Nhật
 
-Người muốn phát triển kỹ năng
+Người muốn làm việc tại công ty Nhật
 
-Người tìm kiếm việc làm
+Người muốn phát triển kỹ năng IT
 
-Doanh nghiệp tuyển dụng
+🔮 Hướng phát triển
 
-🔮 Hướng phát triển trong tương lai
+Trong tương lai hệ thống có thể mở rộng:
 
-Một số tính năng có thể phát triển thêm:
+🤖 AI gợi ý nghề nghiệp
 
-AI gợi ý nghề nghiệp thông minh
+📊 Phân tích kỹ năng nâng cao
 
-Phân tích dữ liệu học tập nâng cao
+📱 Ứng dụng Mobile
 
-Dashboard thống kê kỹ năng
+🌐 Kết nối với API tuyển dụng
 
-Ứng dụng mobile
-
-Kết nối API với các nền tảng tuyển dụng
+🧠 Machine Learning Recommendation
 
 👨‍💻 Nhóm phát triển
 
-Dự án được phát triển bởi:
-
 Bùi Xuân Toàn
-Nhóm phát triển LMS-MetaJobs
+
+Project: LMS-MetaJobs
 
 📜 License
 
 This project is licensed under the MIT License.
-
-💡 LMS-MetaJobs là nền tảng kết nối giữa học tập và nghề nghiệp, giúp người dùng phát triển kỹ năng và tìm kiếm cơ hội việc làm phù hợp.
