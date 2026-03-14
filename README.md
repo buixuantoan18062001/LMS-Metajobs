@@ -122,28 +122,6 @@ IT Comtor
 
 Software Engineer
 
-
-📊 Quy trình hoạt động
-User
- │
- ▼
-Login / Register
- │
- ▼
-Chọn khóa học
-(Japanese / IT)
- │
- ▼
-Học tập & phát triển kỹ năng
- │
- ▼
-Phân tích kỹ năng
- │
- ▼
-Gợi ý nghề nghiệp
- │
- ▼
-Tìm kiếm việc làm
 🎯 Đối tượng sử dụng
 
 Hệ thống phù hợp với:
